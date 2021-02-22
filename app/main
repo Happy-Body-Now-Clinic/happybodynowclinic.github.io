@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - Happy Body Now Clinic</title>
+    <meta name="description" content="Insurance based care">
+    <link rel="icon" type="image/png" sizes="165x140" href="assets/img/logo_sm.png?h=9ccb9d84cad1b8860a09f184036d7ac5">
+    <link rel="icon" type="image/png" sizes="165x140" href="assets/img/logo_sm.png?h=9ccb9d84cad1b8860a09f184036d7ac5">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css?h=806e2acf4c8d23bc8f9045fbb28ad50d">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=447f5b2f2275f3c44787dd6ce160eeb3">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+Happy Body Now Clinic
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar">
+        <div class="container"><a class="navbar-brand logo" href="index.html">Happy Body Now Clinic</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About&nbsp;</a></li>
+                    <li class="nav-item"><a class="nav-link" href="scheduling.html">Scheduling</a></li>
+                    <li class="nav-item"><a class="nav-link" href="insurance.html">iNSURANCE</a></li>
+                    <li class="nav-item"><a class="nav-link" href="covid-19_safety.html">covid-19</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <main class="page landing-page">
+        <section class="clean-block clean-hero" style="color: transparent;opacity: 1;filter: saturate(100%);background: top / contain no-repeat, url(&quot;assets/img/scenery/ngm1999_01p132-3.jpg?h=2703b56bbacdc708a1a0d776dc4228d7&quot;) top / cover no-repeat, rgb(142,188,238);">
+            <div class="text">
+                <h2><strong>Happy Body Now Clinic</strong><br></h2>
+                <p>Leave your visit feeling inspired and empowered with innovative tools designed to support a physically vital, happier body now.<br></p><a class="btn btn-outline-light btn-lg" role="button" href="scheduling.html">Schedule Now</a>
+            </div>
+        </section>
+        <section class="clean-block clean-info dark" style="background: linear-gradient(white 2%, rgb(119,184,255) 40%, var(--blue) 100%);">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info">What kind of care are you looking for?</h2>
+                    <div>
+                        <p style="font-size: 20px;">Primary Care<br><br></p>
+                        <p style="font-size: 16px;">Well Visits for adults (age 20 and up!), preventive screening labs and physical exams.<br><br></p>
+                    </div>
+                    <div>
+                        <p style="font-size: 20px;">Women’s Health<br><br></p>
+                        <p style="font-size: 16px;">Integrative treatments for vaginal and menstrual disorders, PMS, PAP smears and STI testing.<br><br></p>
+                    </div>
+                    <div>
+                        <p style="font-size: 20px;">Men’s Health<br><br></p>
+                        <p style="font-size: 16px;">Specializing in testosterone hormone optimization therapy for men.<br><br></p>
+                        <div>
+                            <p style="font-size: 20px;">Menopause Medicine<br><br></p>
+                            <p style="font-size: 16px;">You CAN have a happy body in menopause! A curated personalized approach is employed for the menopausing woman that often includes diet hack, movement therapy, herbal medicine and bioidentical hormone optimization (replacement) therapy.<br><br></p>
+                        </div>
+                    </div>
+                    <div>
+                        <p style="font-size: 20px;">Functional Medicine Endocrinology<br><br></p>
+                        <p style="font-size: 16px;">Outside the box thinking when it comes to thyroid, adrenal, chronic fatigue and sleep disorders.<br><br></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clean-block about-us" style="background: linear-gradient(var(--blue), white 97%);"></section>
+    </main><!-- Start: Footer Dark -->
+    <div class="footer-dark" style="background: rgb(20,53,88);">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <!-- Start: Services -->
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3><strong>Hours of Operation</strong></h3>
+                        <ul>
+                            <li>Monday Wednesday Friday </li>
+                            <li> 9am to 5pm</li>
+                            <li>Saturday 9am to 1pm</li>
+                            <li>Closed 1-2pm for lunch<br></li>
+                        </ul>
+                    </div><!-- End: Services -->
+                    <!-- Start: About -->
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Site links</h3>
+                        <ul>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="insurance.html">Insurance</a></li>
+                            <li><a href="scheduling.html">Scheduling</a></li>
+                            <li><a href="covid-19_safety.html">Covid-19 Safety</a></li>
+                        </ul>
+                    </div><!-- End: About -->
+                    <!-- Start: Footer Text -->
+                    <div class="col-md-6 item text">
+                        <h3><strong>Contact Us</strong><br></h3>
+                        <p style="font-size: 14px;">Happy Body Now Clinic PLLC in West Seattle<br>5400 California Avenue SW Suite C, Seattle, WA 98136<br>Phone 206-769-4056<br>HIPPA Compliant Fax - 833-938-1999<br>support@happybodynow.com<br></p>
+                    </div><!-- End: Footer Text -->
+                    <!-- Start: Social Icons -->
+                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a></div><!-- End: Social Icons -->
+                </div><!-- Start: Copyright -->
+                <p class="copyright">Happy Body Now © 2021</p><!-- End: Copyright -->
+            </div>
+        </footer>
+    </div><!-- End: Footer Dark -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="assets/js/script.min.js?h=037c4117326bceadaedc2681de8afadc"></script>
+</body>
+
+</html>
