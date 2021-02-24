@@ -1,29 +1,23 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Happy Body Now Clinic ## 
+### Front facing website for a naturopathic clinic. ###
 
-### What is this repository for? ###
+* Static Website
+* Version 0.0.0
+* Addition of backend in later versions
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### As of now, this application uses no frameworks ###
 
-### How do I get set up? ###
+* Mostly vanilla 
+* Bootstrap library cdn
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### All request will be laughed at ###
 
-### Contribution guidelines ###
+* After laughing we will get it done
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Jp
+* Just me...
